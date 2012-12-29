@@ -7,8 +7,8 @@ SET(ITKIOReview_SRCS
   itkPhilipsRECImageIO.cxx
   itkPhilipsRECImageIOFactory.cxx
   itkPhilipsPAR.cxx
-  itkVoxBoCUBImageIO.cxx
-  itkVoxBoCUBImageIOFactory.cxx
+  #itkVoxBoCUBImageIO.cxx
+  #itkVoxBoCUBImageIOFactory.cxx
   itkGaborKernelFunction.cxx
   itkMRCHeaderObject.cxx
   itkMRCImageIO.cxx
