@@ -24,6 +24,7 @@
 #include "itkProgressReporter.h"
 
 #include "vnl/vnl_math.h"
+#include <algorithm>
 
 namespace itk
 {
